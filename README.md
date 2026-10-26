@@ -1,0 +1,2 @@
+# libremind
+Decentralized Intelligence Protocol
